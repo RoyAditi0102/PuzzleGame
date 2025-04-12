@@ -1,4 +1,4 @@
-# Sliding Puzzle Game 🧹
+# Sliding Puzzle Game 
 
 A fun and interactive **Sliding Puzzle Game** built with **Python**, **Pygame**, and **OpenCV**, where users rearrange shuffled tiles to recreate the original image. This project demonstrates proficiency in image processing, game development, and GUI design.
 
@@ -49,14 +49,17 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## 👤 Author
 **Aditi Roy**  
-📧 [LinkedIn](https://www.linkedin.com/in/anindita-goswami-baa239238/)  
+
+📧 [LinkedIn](https://www.linkedin.com/in/royaditi0102/)  
 📁 [GitHub](https://github.com/RoyAditi0102/)
 
 **Anindita Goswami**
-📧 [LinkedIn](https://www.linkedin.com/in/aditi-roy-777a76255/)  
+
+📧 [LinkedIn](https://www.linkedin.com/in/anindita-goswami-baa239238/)  
 📁 [GitHub](https://github.com/Code-Ani2/)
 
 **Ayushi Gupta**
+
 📧 [LinkedIn](https://www.linkedin.com/in/ayushi-gupta-03a713242/)  
 📁 [GitHub](https://github.com/)
 
