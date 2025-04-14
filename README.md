@@ -61,7 +61,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 **Ayushi Gupta**
 
 📧 [LinkedIn](https://www.linkedin.com/in/ayushi-gupta-03a713242/)  
-📁 [GitHub](https://github.com/)
+📁 [GitHub](https://github.com/Ayushi-gupta-025/)
 
 ## 🌟 Show Your Support
 If you like this project, please ⭐ the repo! Contributions, feedback, and ideas are always welcome.
